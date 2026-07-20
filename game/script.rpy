@@ -4,6 +4,8 @@
 
 define e = Character("Eileen")
 
+define e = Character("Luzbel")
+
 
 # El juego comienza aquí.
 
@@ -23,9 +25,11 @@ label start:
 
     # Presenta las líneas del diálogo.
 
-    e "Has creado un nuevo juego Ren'Py."
+    e "Hola XD."
 
-    e "Añade una historia, imágenes y música, ¡y puedes presentarlo al mundo!"
+    e "Toca crear la historia, osea no la historia en si si no el guion."
+
+    e "Pero F ajdlksahfkh"
 
     # Finaliza el juego:
 

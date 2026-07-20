@@ -1,33 +1,34 @@
-2026-07-02 01:38:45 UTC
+2026-07-20 20:57:17 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
-Early init took 92 ms
-Loading error handling took 45 ms
-Loading script took 272 ms
-Loading save slot metadata took 30 ms
+Early init took 87 ms
+Loading error handling took 42 ms
+Loading script took 238 ms
+Loading save slot metadata took 28 ms
 Loading persistent took 1 ms
-Running init code took 106 ms
+Running init code took 83 ms
 Loading analysis data took 6 ms
 Analyze and compile ATL took 2 ms
-Reloading save slot metadata took 4 ms
-Dump and make backups took 79 ms
+Reloading save slot metadata took 3 ms
+Backing up script files to 'C:\\Users\\CARSA\\AppData\\Roaming/RenPy/backups\\SECTARIO':
+Dump and make backups took 83 ms
 Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 61 ms
+Making clean stores took 1 ms
+Initial gc took 71 ms
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 5 ms
+Creating interface object took 4 ms
 Init translation took 0 ms
 Cleaning stores took 0 ms
-Load screen analysis took 32 ms
-Analyze screens took 2 ms
-Save screen analysis took 0 ms
+Load screen analysis took 1 ms
+Analyze screens took 15 ms
+Save screen analysis took 20 ms
 Save pyanalysis took 0 ms
-Save bytecode took 0 ms
+Save bytecode took 40 ms
 Running _start took 1 ms
-Interface start took 1006 ms
+Interface start took 902 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -41,17 +42,3 @@ Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
 Maximum texture size: 4096x4096
-Requested resize to 1738x977, fullscreen=1, maximized=0
-Screen sizes: virtual=(1920, 1080) physical=(1920, 1080) drawable=(1920, 1080)
-Maximum texture size: 4096x4096
-Requested resize to 1739x978, fullscreen=0, maximized=1
-Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
-Maximum texture size: 4096x4096
-Cleaning stores took 0 ms
-Load screen analysis took 23 ms
-Analyze screens took 1 ms
-Running _start took 1 ms
-Cleaning stores took 1 ms
-Load screen analysis took 23 ms
-Analyze screens took 0 ms
-Running _start took 1 ms
