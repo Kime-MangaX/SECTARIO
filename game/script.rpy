@@ -4,7 +4,6 @@
 
 define e = Character("Eileen")
 
-define e = Character("Luzbel")
 
 
 # El juego comienza aquí.
@@ -30,6 +29,12 @@ label start:
     e "Toca crear la historia, osea no la historia en si si no el guion."
 
     e "Pero F ajdlksahfkh"
+
+    yusu "O no, q mal XD"
+
+    daisu "Eres cruel..."
+
+    "Narrador narrando waaaaaaaa"
 
     # Finaliza el juego:
 
