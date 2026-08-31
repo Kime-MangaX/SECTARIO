@@ -36,6 +36,13 @@ label start:
 
     "Narrador narrando waaaaaaaa"
 
+    ## ─── PERSONAJE IA ──────────────────────────────────────────────
+    ## PRUEBA: aparece siempre al ejecutar. Comenta la de abajo y
+    ## descomenta ia_encuentro_aleatorio para volver al modo 40% azar.
+    call ia_charla
+    # call ia_encuentro_aleatorio
+    ## ────────────────────────────────────────────────────────────────
+
     # Finaliza el juego:
 
     return
